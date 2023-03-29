@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/koguhoidja-web/static/css/main.bcaf2dea.css",
+    "main.js": "/koguhoidja-web/static/js/main.26110808.js",
+    "static/js/787.d6dc7b71.chunk.js": "/koguhoidja-web/static/js/787.d6dc7b71.chunk.js",
+    "static/media/revicons.eot": "/koguhoidja-web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/koguhoidja-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/koguhoidja-web/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/koguhoidja-web/index.html",
+    "main.bcaf2dea.css.map": "/koguhoidja-web/static/css/main.bcaf2dea.css.map",
+    "main.26110808.js.map": "/koguhoidja-web/static/js/main.26110808.js.map",
+    "787.d6dc7b71.chunk.js.map": "/koguhoidja-web/static/js/787.d6dc7b71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcaf2dea.css",
+    "static/js/main.26110808.js"
+  ]
+}
